@@ -1,0 +1,17 @@
+body{
+    background: 
+        linear-gradient(45deg, 
+        #ff3300 45px, transparent 45px) 64px 64px,
+        linear-gradient(45deg, 
+        #ff3300 45px, transparent 45px, 
+        transparent 91px ,#fff 91px, 
+        #fff 135px, transparent 135px),
+        linear-gradient(-45deg, 
+        #ff3300 23px, transparent 23px, 
+        transparent 68px, #ff3300 68px,
+        #ff3300 113px, transparent 113px,
+        transparent 158px, #ff3300 158px);
+        background-color: #fff;
+        background-size: 127px 127px;
+    ;
+}
